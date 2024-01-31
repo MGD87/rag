@@ -1,4 +1,6 @@
-cd AIProjects/Local_Rag
+https://supabase.com/docs/guides/ai/integrations/llamaindex
+
+cd Local_Rag
 conda activate rag
 streamlit run 1_Dokumenten_Suche.py
 
